@@ -19,7 +19,7 @@ public class exercicio5 {
 		System.out.println("Por favor, informe o peso do lixo 3");
 		lixo3 = leitor.nextDouble();
 		
-		
+		//Comentário
 		
 		if(lixo1 < lixo2 & lixo1 < lixo3) {
 			System.out.println("Recolhendo o lixo 1");
